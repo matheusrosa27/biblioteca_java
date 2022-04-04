@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=minha_biblioteca
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=args
+comment2.target=void\ sec(java.lang.String[])
+comment3.params=a\ b\ c
+comment3.target=int\ menor1(int,\ int,\ int)
+comment4.params=a\ b\ c
+comment4.target=int\ menor2(int,\ int,\ int)
+comment5.params=a\ b\ c
+comment5.target=int\ menor3(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ coord()
+numComments=7
