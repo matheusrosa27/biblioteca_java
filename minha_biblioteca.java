@@ -76,7 +76,7 @@ public class minha_biblioteca
         } else if (falas.equals("B")) {
             System.out.print(fala2);
         } else {
-            System.out.print("O mundo é uma grande bola");
+            System.out.print("O mundo é uma grande esfera.");
         }
     }
     
