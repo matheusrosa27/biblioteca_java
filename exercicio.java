@@ -27,6 +27,19 @@ public class exercicio
             System.out.println("Está no terceiro quadrante, seu x é igual a "+x+" e seu y é igual a "+y);
         } else if (x > 0 && y < 0){
             System.out.println("Está no quarto quadrante, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else if (x == 0 && y == 0){
+            System.out.println("Está na origem, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else if (x > 0 && y == 0){
+            System.out.println("Está no eixo X na parte positiva, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else if (x < 0 && y == 0){
+            System.out.println("Está no eixo X na parte negativa, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else if (x == 0 && y > 0){
+            System.out.println("Está no eixo Y na parte positiva, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else if (x == 0 && y < 0){
+            System.out.println("Está no eixo Y na parte negativa, seu x é igual a "+x+" e seu y é igual a "+y);
+        } else {
+            System.out.println("Não foi possível localizar seu ponto");
         }
+        
     }
 }

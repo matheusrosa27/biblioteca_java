@@ -1,9 +1,13 @@
 #BlueJ class context
-comment0.target=trabalho1
+comment0.target=Trabalho1
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-comment10.params=mes
-comment10.target=int\ mesC(java.lang.String)
+comment10.params=hora
+comment10.target=int\ horaValida(int)
+comment11.params=minuto
+comment11.target=int\ minutoValido(int)
+comment12.params=mes
+comment12.target=int\ mesC(java.lang.String)
 comment2.params=
 comment2.target=void\ menu()
 comment3.params=
@@ -20,4 +24,4 @@ comment8.params=mes
 comment8.target=int\ mesValido(int)
 comment9.params=ano
 comment9.target=int\ anoValido(int)
-numComments=11
+numComments=13
