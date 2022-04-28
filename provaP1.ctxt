@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=provaP1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ ex1()
+comment3.params=
+comment3.target=void\ ex2()
+comment4.params=
+comment4.target=void\ ex3()
+comment5.params=
+comment5.target=boolean\ doisVal()
+comment6.params=
+comment6.target=int\ numPrimo()
+numComments=7
