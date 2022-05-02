@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=minha_biblioteca_Strings
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=palavra
+comment2.target=int\ vogais(java.lang.String)
+comment3.params=palavra
+comment3.target=boolean\ verificaInicio(java.lang.String)
+comment4.params=palavra
+comment4.target=boolean\ metodo3(java.lang.String)
+comment5.params=palavra
+comment5.target=int\ metodo4(java.lang.String)
+comment6.params=palavra
+comment6.target=void\ metodo5(java.lang.String)
+comment7.params=verbo
+comment7.target=void\ metodo6(java.lang.String)
+numComments=8
