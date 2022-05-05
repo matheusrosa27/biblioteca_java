@@ -10,7 +10,7 @@ import java.time.*; // Importa tudo de "time"
 import java.util.Scanner; // Importa o "Scanner" para pegar o que o usuário digitar.
 import java.util.Date; // Importa "Date"
 
-public class Trabalho1 {
+public class trabalho1 {
    public static void main(String[] args){
        // Cria-se o método main e executa o menu();
        menu();

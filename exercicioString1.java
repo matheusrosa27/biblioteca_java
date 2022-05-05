@@ -37,13 +37,6 @@ public class exercicioString1 {
     }
     
     public static int vezes(String frase, String palavra){
-        int tamFrase = frase.length();
-        String[] fraseSep = frase.split[]
-        int total = 0;
-        
-        for (int i=0; i<=tamFrase;i++){
-        
-        }
-        
+        return 1;
     }
 }
